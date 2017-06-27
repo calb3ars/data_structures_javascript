@@ -1,4 +1,4 @@
-class Set{
+class Set {
   constructor(){
     this.values = [];
     this.numberOfValues = 0;
